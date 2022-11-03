@@ -1,0 +1,124 @@
+a,
+a:hover {
+    text-decoration: none;
+    color: #333;
+}
+.tags {
+    display: flex;
+    gap: 5px;
+}
+
+
+
+.shop a {
+    text-decoration: none;
+    color: #798282;
+    display: block;
+}
+
+.tags a{
+    display: block;
+    padding: 6px 20px;
+    border-radius: 5px;
+    background-color: #333;
+    color: #FFF;
+}
+
+.widget {
+    margin-bottom: 40px;
+}
+
+.widget h2 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.widget ul li a {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #7e7e7e;
+}
+
+.shop-area h2 {
+    font-size: 18px;
+}
+
+.shop-area .shop-item h3{
+    font-size: 16px;
+
+}
+
+
+.shop-area .shop-item p{
+    font-size: 14px;
+}
+
+.menu {
+    background-color: #2874f0;
+    height: 60px;
+    text-align: center;
+
+}
+
+.menu ul {
+    margin: 0px;
+    display: flex;
+    margin-top: 6px;
+}
+.search {
+    display: flex;
+    width: 400px;
+    position: relative;
+    
+}
+
+.search button {
+    background-color: #ffffff;
+    padding: 9px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    position: absolute;
+    /* padding-left: 13px; */
+    margin-left: 365px;
+    color: #2874f0;
+    font-size: 16px;
+}
+
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #ccc;
+    display: block;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.menu ul li a i {
+    font-size: 20px;
+    margin-left: 15px;
+}
+.menu ul li input {
+    width: 500px;
+}
+
+.header img {
+    height: 200px;
+}
+
+.single-product img {
+    width: 100%;
+}
+
+
+a#price {
+    font-size: 20px;
+    padding: 5px;
+    background-color: #2f9dec;
+    margin-right: -97px;
+    margin-left: 7px;
+    border-radius: 5px;
+    color: #fff;
+}

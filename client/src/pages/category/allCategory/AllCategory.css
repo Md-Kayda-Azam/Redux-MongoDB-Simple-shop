@@ -1,0 +1,14 @@
+.widget {
+    margin-bottom: 40px;
+}
+
+.widget h2 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.widget ul li a {
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+}

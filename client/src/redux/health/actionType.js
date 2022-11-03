@@ -1,0 +1,6 @@
+
+export const HEALTH_REQUEST = "HEALTH_REQUEST";
+export const HEALTH_SUCCESS = "HEALTH_SUCCESS";
+export const HEALTH_FAIL = "HEALTH_FAIL";
+export const HEALTH_DELETE = "HEALTH_DELETE";
+export const SINGLE_HEALTH = "SINGLE_HEALTH";

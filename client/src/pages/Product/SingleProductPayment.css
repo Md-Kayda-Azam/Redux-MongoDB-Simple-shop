@@ -1,0 +1,14 @@
+
+.buttom {
+    display: flex;
+    gap: 5px;
+}
+
+button.btn.btn-danger {
+    width: 150px;
+}
+
+
+button.btn.btn-primary {
+    width: 150px;
+}
